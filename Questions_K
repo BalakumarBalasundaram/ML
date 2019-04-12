@@ -1,0 +1,22 @@
+How Decision tree works?
+
+Decision Tree / Random Forest / FeaturesEngineering / Gradient Boosting 
+https://github.com/adilmoujahid/ml-credit-card-default/blob/master/notebooks/credit-default-models.ipynb
+
+Basics learning
+https://www.kaggle.com/lucabasa/credit-card-default-a-very-pedagogical-notebook
+https://www.kaggle.com/gpreda/default-of-credit-card-clients-predictive-models/notebook
+
+This is a classification problem and this means that we can use the following algorithms:
+    Logistic regression
+    Decision tree
+    Random forest
+    Support Vector Classifications
+    Stocastic Gradient Descend
+    Nearest Neighbours Classifiers
+    Gaussian Process Classification
+    Other ensemble
+    Neural Network Models
+    XGBoost
+
+
